@@ -3,7 +3,7 @@ Encuéntrame en la web 🌎:
 - Aprender en público en Twitch or Drey.dev 📹 ✍🏾
 - - Experimentando con las interacciones Codepen 🏓
   -  - Compartir actualizaciones LinkedIn 💼
-       --- ⭐️ From [Drey](https://github.com/Dreyuix) --- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyuix&show_icons=true&theme=transparent)
+       --- ⭐️ From Reggy Ricardo
 ## Hi there 👋
 <!--
 **SleepyReggy/SleepyReggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 -->
